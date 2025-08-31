@@ -20,3 +20,6 @@
 - 3-2. 차량 호출 시 배차 알고리즘을 설계해 주세요. <br/>
   - a. 기사 우선순위 선정 기준 (거리, 상태 등 자유) <br/>
   - b. 기사 응답 없음 또는 거절 시 재시도 방식 <br/>
+
+
+![img](https://github.com/juhwano/backend-system-design-dispatch/blob/main/dispatch.png?raw=true)
